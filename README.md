@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dan
+- 👀 I’m currently working on @ValidGames & another small project
+- 🌱 I’m currently learning Java, Kotlin & PHP
+- 📫 How to reach me Dan;#6969
