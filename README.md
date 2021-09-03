@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m currently working on @ValidGames & another small project
+- 👀 I’m currently working on @Minekings
 - 🌱 I’m currently learning Java, Kotlin & Python
-- 📫 How to reach me Da#1001
+- 📫 How to reach me Dan.#6630
